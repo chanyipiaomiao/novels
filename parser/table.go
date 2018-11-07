@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"net/url"
-	"novel-update-notice/dtype"
+	"novels/dtype"
 	"path"
 	"strings"
 

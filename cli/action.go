@@ -3,9 +3,9 @@ package cli
 import (
 	"fmt"
 	"github.com/chanyipiaomiao/hltool"
-	"novel-update-notice/db"
-	"novel-update-notice/dtype"
-	"novel-update-notice/parser"
+	"novels/db"
+	"novels/dtype"
+	"novels/parser"
 )
 
 func Update(tableURL, siteName, parserStr, crontab string) error {

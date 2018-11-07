@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"novel-update-notice/dtype"
+	"novels/dtype"
 
 	"github.com/chanyipiaomiao/hltool"
 )

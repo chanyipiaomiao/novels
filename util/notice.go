@@ -1,6 +1,6 @@
 package util
 
-import "novel-update-notice/config"
+import "novels/config"
 
 var (
 

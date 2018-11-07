@@ -1,6 +1,6 @@
 package main
 
-import "novel-update-notice/cli"
+import "novels/cli"
 
 func main() {
 	cli.InitCli()

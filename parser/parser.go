@@ -2,7 +2,7 @@ package parser
 
 import (
 	"fmt"
-	"novel-update-notice/dtype"
+	"novels/dtype"
 )
 
 type SiteParser struct {

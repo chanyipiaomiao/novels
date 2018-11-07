@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"github.com/robfig/cron"
 	"log"
-	"novel-update-notice/db"
-	"novel-update-notice/dtype"
-	"novel-update-notice/fetcher"
-	"novel-update-notice/parser"
-	"novel-update-notice/util"
+	"novels/db"
+	"novels/dtype"
+	"novels/fetcher"
+	"novels/parser"
+	"novels/util"
 	"text/template"
 )
 
